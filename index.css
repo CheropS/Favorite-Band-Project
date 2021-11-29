@@ -6,10 +6,7 @@ h1 {
     font-style: italic;
     
 }
-* { background-color: rgb(1, 255, 242);
-    font-family:cursive
 
-}
 #synopsis {
     font-family:serif;
     font-style: italic;
@@ -35,4 +32,11 @@ p {
     margin-left: 0px;
     margin-right: auto;
     width: 400px;
+}
+.card {
+    box-shadow: 5px 10px;
+    border: 1px solid;
+    padding: 10px;
+    
+   
 }
