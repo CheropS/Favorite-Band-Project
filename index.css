@@ -37,6 +37,9 @@ p {
     box-shadow: 5px 10px;
     border: 1px solid;
     padding: 10px;
-    
-   
+    background-color: cyan;
+    height: 600px;
 }
+#band{
+    height: 450px;
+    background-color: magenta;
